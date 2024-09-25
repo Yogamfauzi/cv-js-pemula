@@ -2,7 +2,7 @@
   <div class="cv-container">
     <div class="left-column">
       <div class="profile-box">
-        <div class="profile-pic" style="background-image: url('./image/profile.jpeg');"></div>
+        <div class="profile-pic" style="background-image: url('assets/img/profile.jpeg');"></div>
         <h1>Yoga Muhammad Fauzi</h1>
         <p class="university">Universitas Brawijaya</p>
       </div>
@@ -45,7 +45,7 @@
   left: 0;
   width: 100%;
   height: 100%;
-  background-image: url('image/background.jpg');
+  background-image: url('assets/img/background.jpg');
   background-size: cover;
   background-position: center;
   opacity: 0.7;
